@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
 ![](https://raw.githubusercontent.com/eiaa02/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/eiaa02/github-stats/master/generated/overview.svg#gh-light-mode-only)
